@@ -11,7 +11,7 @@ The dashboard combines multiple analytical views into a single reporting interfa
 ## Dashboard Preview
 
 <p align="center">
-  <img src="image.png" alt="Retail Sales Analytics Dashboard" width="100%">
+  <img src="retail-sales-dashboard.png" alt="Retail Sales Analytics Dashboard" width="100%">
 </p>
 
 ---
