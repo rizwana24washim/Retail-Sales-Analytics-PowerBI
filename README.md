@@ -298,14 +298,25 @@ Potential extensions to the project include:
 
 ---
 
-## Author
+## Authors
 
-**Rizwana Washim**
-
-MSc Economics
-Calcutta University
+- **Rizwana Washim** — [GitHub Profile](YOUR_GITHUB_LINK)(https://github.com/rizwana24washim)
+- **Farhin Salam** — [[GitHub Profile](THEIR_GITHUB_LINK)](https://github.com/Farhin-1942)
 
 This project is part of a portfolio demonstrating practical applications of data analysis, business intelligence, and data visualization.
+
+---
+
+## Data Source
+
+The dashboard was developed using the Retail Sales dataset available on Kaggle.
+
+**Source:** [[Kaggle — Retail Sales Dataset](ACTUAL-KAGGLE-LINK)](https://www.kaggle.com/datasets/abdurraziq01/retail-data)
+
+**Data format:** CSV
+
+**Data used for:** Sales analysis, profitability analysis, customer analysis,
+product and pricing analysis, and dashboard development.
 
 ---
 
